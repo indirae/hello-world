@@ -1,2 +1,2 @@
 # hello-world
-Empty repo
+Empty repository for Hello-World program
